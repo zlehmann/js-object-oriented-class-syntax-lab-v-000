@@ -7,7 +7,7 @@
 ## Instructions
 With our new knowledge of prototypes, we would like to refactor our previously written code to declare each function only one time.
 
-In `index.js`, build an ES2015 `BoardMember` class with the following properties set by the constructor: `name`, `training`, and `homeState`.
+In `index.js`, build an ES2015 `BoardMember` class with the following properties set by the constructor: `name`, `homeState`, and `training`.
 
 Add following methods to the prototype using the class syntax:
 + `veto` — returns `No, I must disagree`
