@@ -9,7 +9,7 @@ With our new knowledge of prototypes, we would like to refactor our previously w
 
 In `index.js`, build an ES2015 `BoardMember` class with the following properties set by the constructor: `name`, `homeState`, and `training`.
 
-Add following methods to the prototype using the class syntax:
+Add the following methods to the prototype using the class syntax:
 + `veto` — returns `No, I must disagree`
 
 + `approve` — returns `You can do that!`
